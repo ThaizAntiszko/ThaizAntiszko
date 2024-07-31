@@ -4,4 +4,4 @@
 - 💞️ Trabalho colaborativamente com meus alunos a apender a  programar e concluir a disciplina de Pensamento Computacional.
 - 📫 Meu conatato de e-mail: thaiz.antiszko@escola.pr.gov.br
 
-![tbbt] (https://tenor.com/pt-BR/view/sheldon-cooper-bbt-tbbt-big-bang-theory-jim-parsons-gif-6168143)
+![tbbt] (https://media.tenor.com/_-foYY_h-1UAAAAM/sheldon-cooper-bbt.gif)
