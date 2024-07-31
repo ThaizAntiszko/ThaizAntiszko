@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ThaizAntiszko
-- 👀 I’m interested in  aprender a programar novas linguagens.
-- 🌱 I’m currently learnin  a programar utilizando Html e CSS
-- 💞️ I’m looking to collaborate on  com meus alunos a apender a  programar e concluir a disciplina de Pensamento Computacional.
-- 📫 How to reach me  e-mail: thaiz.antiszko@escola.pr.gov.br
+- 👋 Olá!! Eu sou @ThaizAntiszko, Bem vindo ao meu perfil!
+- 👀 Estou interessada em aprender a programar novas linguagens.
+- 🌱 Estou aprendendo a programar utilizando Html e CSS
+- 💞️ Trabalho colaborativamente com meus alunos a apender a  programar e concluir a disciplina de Pensamento Computacional.
+- 📫 Meu conatato de e-mail: thaiz.antiszko@escola.pr.gov.br
 
-<!---
-ThaizAntiszko/ThaizAntiszko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
