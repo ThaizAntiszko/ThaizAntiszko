@@ -4,3 +4,4 @@
 - 💞️ Trabalho colaborativamente com meus alunos a apender a  programar e concluir a disciplina de Pensamento Computacional.
 - 📫 Meu conatato de e-mail: thaiz.antiszko@escola.pr.gov.br
 
+![Uploading SheldonSheldonCooperGIF (2).gif…]()
