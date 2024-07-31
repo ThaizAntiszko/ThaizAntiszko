@@ -6,5 +6,3 @@
 
   ![sheldon](https://media.tenor.com/mwG6PwH9XMgAAAAM/sheldon-cooper-brainy.gif) 
 
-![tbbt](https://media.tenor.com/S_zsRKIRnZoAAAAM/the-big-bang-theory-sheldon-cooper.gif)
-
