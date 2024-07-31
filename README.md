@@ -4,5 +4,7 @@
 - 💞️ Trabalho colaborativamente com meus alunos a apender a  programar e concluir a disciplina de Pensamento Computacional.
 - 📫 Meu conatato de e-mail: thaiz.antiszko@escola.pr.gov.br
 
+  !{sheldon](https://media.tenor.com/2KAehKFM6HEAAAAM/lysol-sheldon-cooper.gif)
+
 ![tbbt](https://media.tenor.com/S_zsRKIRnZoAAAAM/the-big-bang-theory-sheldon-cooper.gif)
 
